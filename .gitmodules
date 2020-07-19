@@ -1,0 +1,3 @@
+[submodule "log-book-backend"]
+	path = log-book-backend
+	url = https://github.com/vibhamasti/log-book-backend
